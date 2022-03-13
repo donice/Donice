@@ -14,7 +14,7 @@
 
 - How to reach me **doniceubaru1@gmail.com**
 
-- Fun fact **I wonder about the spelling of 'queue'**
+- Fun fact **I do not agree with the English Spelling of 'queue'**
 
 <h3 align="left">Connect with Me:</h3>
 <p align="left">
