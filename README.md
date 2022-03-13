@@ -1,20 +1,20 @@
 <img align = "center" alt="Programing" width= "100%" src= "https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
-<h1 align="center">Hello There, I'm Donice Ubaru</h1>
+<h1 align="center">Hello There,<br> I'm Donice Ubaru</h1>
 <h3 align="center">An Entry-Level fullStack developer from Benin City, Nigeria. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=donice&label=Profile%20views&color=0e75b6&style=flat" alt="donice" /> </p>
 
 <p align="left"> <a href="https://twitter.com/drdonice" target="blank"><img src="https://img.shields.io/twitter/follow/drdonice?logo=twitter&style=for-the-badge" alt="drdonice" /></a> </p>
 
-- 🌱 I’m currently learning **Javascript, Python Django**
+- I’m currently learning **Javascript, Python Django**
 
-- 👨‍💻 All of my projects are available <a href= "github.com/Donice">Here</a>
+- All of my projects are available <a href= "github.com/Donice">Here</a>
 
-- 📝 I tweet about my programming experiences <a href= "twitter.com/drdonice">Here</a>
+- I tweet about my programming experiences <a href= "twitter.com/drdonice">Here</a>
 
-- 📫 How to reach me **doniceubaru1@gmail.com**
+- How to reach me **doniceubaru1@gmail.com**
 
-- ⚡ Fun fact **I wonder about the spelling of 'queue'**
+- Fun fact **I wonder about the spelling of 'queue'**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
