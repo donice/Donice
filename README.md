@@ -1,6 +1,6 @@
+<img align = "center" alt="Programing" width= "100%" src= "https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 <h1 align="center">Hello There 👋, I'm Donice Ubaru</h1>
 <h3 align="center">An Entry-Level fullStack developer from Benin City, Nigeria. </h3>
-<img align = "right" alt="Programing" src= "https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=donice&label=Profile%20views&color=0e75b6&style=flat" alt="donice" /> </p>
 
@@ -8,9 +8,9 @@
 
 - 🌱 I’m currently learning **Javascript, Python Django**
 
-- 👨‍💻 All of my projects are available<a href= "github.com/Donice">Here</a>
+- 👨‍💻 All of my projects are available <a href= "github.com/Donice">Here</a>
 
-- 📝 I tweet about my programming experiences on [twitter.com/drdonice](twitter.com/drdonice)
+- 📝 I tweet about my programming experiences <a href= "twitter.com/drdonice">Here</a>
 
 - 📫 How to reach me **doniceubaru1@gmail.com**
 
