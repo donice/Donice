@@ -1,5 +1,5 @@
 <img align = "center" alt="Programing" width= "100%" src= "https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
-<h1 align="center">Hello There,<br> I'm Donice Ubaru</h1>
+<h1 align="center" font-size="250%" >Hello There,<br> I'm Donice Ubaru</h1>
 <h3 align="center">An Entry-Level fullStack developer from Benin City, Nigeria. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=donice&label=Profile%20views&color=0e75b6&style=flat" alt="donice" /> </p>
