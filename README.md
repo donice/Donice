@@ -9,11 +9,13 @@
 
 - I’m currently learning **React JS**
 
-- All of my projects are available <a href= "github.com/Donice">Here</a>
+- All of my projects are available <a href= "github.com/Donice" target="_blank">Here</a>
 
 - I tweet about my programming experiences <a href="https://twitter.com/drdonice" target="_blank">Here</a>
 
-- How to reach me **doniceubaru1@gmail.com**
+- You can mail to me at **doniceubaru1@gmail.com**
+
+- You can also connect with me on <a href="https://www.linkedin.com/in/doniceubaru/" target="_blank">Linkedin</a>
 
 - Fun fact **I do not agree with the English Spelling of 'queue'**
 
