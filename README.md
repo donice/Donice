@@ -9,9 +9,9 @@
 
 - I’m currently learning **React JS**
 
-- All of my projects are available <a href= "github.com/Donice" target="_blank">Here</a>
+- All of my projects are available here on <a href= "github.com/Donice" target="_blank">Github</a>
 
-- I tweet about my programming experiences <a href="https://twitter.com/drdonice" target="_blank">Here</a>
+- I tweet about my programming experiences on the <a href="https://twitter.com/drdonice" target="_blank">Twitter</a> app
 
 - You can mail to me at **doniceubaru1@gmail.com**
 
