@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/drdonice" target="blank"><img src="https://img.shields.io/twitter/follow/drdonice?logo=twitter&style=for-the-badge" alt="drdonice" /></a> </p>
 
-- I’m currently learning **Javascript, Python Django**
+- I’m currently learning **React JS**
 
 - All of my projects are available <a href= "github.com/Donice">Here</a>
 
-- I tweet about my programming experiences <a href= "twitter.com/drdonice">Here</a>
+- I tweet about my programming experiences <a href="https://twitter.com/drdonice" target="_blank">Here</a>
 
 - How to reach me **doniceubaru1@gmail.com**
 
