@@ -1,6 +1,6 @@
 
 <h1 align="center">Hello There,<br> I'm Donice Ubaru</h1>
-<h3 align="center">A Front-End1 developer from Benin City, Nigeria. </h3>
+<h3 align="center">A Front-End developer from Benin City, Nigeria. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=donice&label=Profile%20views&color=0e75b6&style=flat" alt="donice" /> </p>
 <a href="https://wakatime.com/@ca456a02-810f-4c52-b5ef-8c97274a616a"><img src="https://wakatime.com/badge/user/ca456a02-810f-4c52-b5ef-8c97274a616a.svg" alt="Total time coded since Mar 1 2022" /></a> <br>
