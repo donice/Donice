@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/drdonice" target="blank"><img src="https://img.shields.io/twitter/follow/drdonice?logo=twitter&style=for-the-badge" alt="drdonice" /></a> </p>
 
-- I’m currently learning **React JS** and **Go (just for fun)**
+- I’m currently learning **React JS** and **Solidity (just for fun)**
 
 - All of my projects are available here on <a href= "github.com/Donice" target="_blank">Github</a>
 
