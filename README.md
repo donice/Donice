@@ -4,7 +4,7 @@
 
 <a href="https://wakatime.com/@ca456a02-810f-4c52-b5ef-8c97274a616a"><img src="https://wakatime.com/badge/user/ca456a02-810f-4c52-b5ef-8c97274a616a.svg" alt="Total time coded since Mar 1 2022" /></a> <br>
 
-- I’m currently work with **React JS** and **Express Js**
+- I currently work with **React JS** and **Express Js**
 
 - All of my projects are available here on <a href= "github.com/Donice" target="_blank">Github</a>
 
