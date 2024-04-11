@@ -1,4 +1,4 @@
-<a href="https://drdonice.dev/" target="_blank"><img align="center" src="GitHub.jpg"/></a>
+<a href="https://drdonice.dev/" target="_blank"><img align="center" src="github_banner.jpg"/></a>
 
 <p align="center"> 
   <a href="https://instagram.com/drdonice"><img align="center" src="https://img.shields.io/badge/drdonice-05122A?style=flat&logo=instagram" alt="instagram"/></a>
